@@ -8,10 +8,11 @@ html {
 h1 {
     margin-top: 363px;
     font-family: sans-serif;
-    text-align: center;
     font-size: 80px;
 }
 footer {
+   font-size: 45px;
+}
+h1 , footer{
     text-align: center;
-    font-size: 45px;;
 }
