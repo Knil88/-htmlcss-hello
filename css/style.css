@@ -11,8 +11,12 @@ h1 {
     font-size: 80px;
 }
 footer {
-   font-size: 45px;
+   font-size: 25px;
+   transition: transform 3s;
 }
 h1 , footer{
     text-align: center;
+}
+footer:hover{
+    transform: scale(1.8);
 }
